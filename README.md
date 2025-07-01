@@ -35,7 +35,7 @@ Welcome to the **Relationship Between Income and Social Media Behavior** project
 
 ---
 
-## 📈 Results & Visuals
+## 📊 Some Results & Visuals
 
 Check out for,
 
@@ -54,3 +54,5 @@ Check out for,
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+This project pairs data science with a dash of creativity- because numbers deserve personality too!
