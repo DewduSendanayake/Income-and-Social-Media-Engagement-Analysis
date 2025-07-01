@@ -1,4 +1,4 @@
-# 📊 Income Vs Social Media Engagement
+# Income Vs Social Media Engagement 💸
 
 Welcome to the **Relationship Between Income and Social Media Behavior** project! This repository houses my empirical analysis of how digital habits intersect with personal finances, powered by a 5,000–user dataset.
 
@@ -37,9 +37,17 @@ Welcome to the **Relationship Between Income and Social Media Behavior** project
 
 ## 📈 Results & Visuals
 
-Check out for:
+Check out for,
 
+<p float="left">
+  <img src="Addiction Level vs Income.png" alt="Addiction Level vs Income screenshot" width="45%" />
+  <img src="Income vs Debt Status.png" alt="Income vs Debt Status screenshot" width="45%" />
+</p>
 
+<p float="left">
+  <img src="Income by Platform.png" alt="Income by Platform screenshot" width="45%" />
+  <img src="Session Intensity vs Income.png" alt="Session Intensity vs Income screenshot" width="45%" />
+</p>
 
 ---
 
