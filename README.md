@@ -2,7 +2,6 @@
 
 Welcome to the **Relationship Between Income and Social Media Behavior** project! This repository houses my empirical analysis of how digital habits intersect with personal finances, powered by a 5,000–user dataset.
 
----
 
 ## 🚀 Project Overview
 
@@ -12,7 +11,6 @@ Welcome to the **Relationship Between Income and Social Media Behavior** project
 - **Null Results:** No significant link between income and addiction, session intensity, or platform used.
 - **Counterintuitive Insight:** Users with debt tended to have higher incomes—suggesting credit access as a proxy for earning power.
 
----
 
 ## 🔍 Analytical Workflow
 
@@ -33,7 +31,6 @@ Welcome to the **Relationship Between Income and Social Media Behavior** project
    * Reported effect sizes, p-values, and confidence intervals.
    * Contextualized findings with economic and behavioral insights.
 
----
 
 ## 📊 Some Results & Visuals
 
@@ -49,7 +46,6 @@ Check out for,
   <img src="Session Intensity vs Income.png" alt="Session Intensity vs Income screenshot" width="45%" />
 </p>
 
----
 
 ## 📜 License
 
