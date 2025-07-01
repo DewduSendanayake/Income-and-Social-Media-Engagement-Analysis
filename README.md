@@ -34,7 +34,7 @@ Welcome to the **Relationship Between Income and Social Media Behavior** project
 
 ## 📊 Some Results & Visuals
 
-Check out for,
+Check out,
 
 <p float="left">
   <img src="Addiction Level vs Income.png" alt="Addiction Level vs Income screenshot" width="45%" />
