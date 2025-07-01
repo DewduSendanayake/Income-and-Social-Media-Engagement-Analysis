@@ -55,4 +55,4 @@ Check out for,
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-This project pairs data science with a dash of creativity- because numbers deserve personality too!
+Turning raw data into meaningful stories- because numbers deserve personality too!
